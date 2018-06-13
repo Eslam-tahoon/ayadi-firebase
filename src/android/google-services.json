@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "907827379383",
+    "firebase_url": "https://sinalco-goooal-a-1524228425839.firebaseio.com",
+    "project_id": "sinalco-goooal-a-1524228425839",
+    "storage_bucket": "sinalco-goooal-a-1524228425839.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907827379383:android:da033ce0113c7645",
+        "android_client_info": {
+          "package_name": "com.sinalcogoooalapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907827379383-38u9elsvtdf9nnnao0ev7v8a90pdrp2s.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "907827379383-38u9elsvtdf9nnnao0ev7v8a90pdrp2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqtpOk-R8WFIi-s3NZ9GTvM1SJIiIqD9A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
