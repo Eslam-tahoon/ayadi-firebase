@@ -1,31 +1,35 @@
 {
   "project_info": {
-    "project_number": "907827379383",
-    "firebase_url": "https://sinalco-goooal-a-1524228425839.firebaseio.com",
-    "project_id": "sinalco-goooal-a-1524228425839",
-    "storage_bucket": "sinalco-goooal-a-1524228425839.appspot.com"
+    "project_number": "865366264113",
+    "firebase_url": "https://ayadi-25dec.firebaseio.com",
+    "project_id": "ayadi-25dec",
+    "storage_bucket": "ayadi-25dec.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:907827379383:android:da033ce0113c7645",
+        "mobilesdk_app_id": "1:865366264113:android:bc16240c75f5419c",
         "android_client_info": {
-          "package_name": "com.sinalcogoooalapp.app"
+          "package_name": "com.dl.ayadi"
         }
       },
       "oauth_client": [
         {
-          "client_id": "907827379383-38u9elsvtdf9nnnao0ev7v8a90pdrp2s.apps.googleusercontent.com",
-          "client_type": 3
+          "client_id": "865366264113-8bbv50tq9s1f2l9i8skt9ql530gif9iv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dl.ayadi",
+            "certificate_hash": "ea425c783ce0a4e8a34bf0ab30b4215e6cc07569"
+          }
         },
         {
-          "client_id": "907827379383-38u9elsvtdf9nnnao0ev7v8a90pdrp2s.apps.googleusercontent.com",
+          "client_id": "865366264113-g4a605jlu39pmi559fn5fb04giss1nfs.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCqtpOk-R8WFIi-s3NZ9GTvM1SJIiIqD9A"
+          "current_key": "AIzaSyD5cNpL-apklOXzI8tIgESVrp25iaXeQJ4"
         }
       ],
       "services": {
@@ -33,8 +37,20 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865366264113-g4a605jlu39pmi559fn5fb04giss1nfs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "865366264113-c1eefp3bt3girn4tn5ie99a80irr7edl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dl.ayadi"
+              }
+            }
+          ]
         },
         "ads_service": {
           "status": 2
